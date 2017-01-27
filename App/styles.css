@@ -1,0 +1,13 @@
+p.none {border-style: none;}
+.container {
+	text-align: center;
+	color: rbg(96, 96, 200);
+	size: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+body{
+	background-color: rgb(144, 236, 254);
+	background-image: url("")
+}
+/* https://pixabay.com/en/food-japanese-asian-715542/ */
